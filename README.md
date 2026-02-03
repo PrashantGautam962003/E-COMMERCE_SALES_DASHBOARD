@@ -170,6 +170,7 @@ This project demonstrates practical **Power BI and business intelligence skills*
 ## Author
 
 Prashant Gautam
+
 B.Tech, Electronics and Communication Engineering
 IIT (ISM) Dhanbad
 
